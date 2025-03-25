@@ -1,0 +1,6 @@
+[rpc]
+url = "https://sepolia-rollup.arbitrum.io/rpc"  # Arbitrum Sepolia public RPC
+chain-id = 421614  # Chain ID for Arbitrum Sepolia
+
+[wallet]
+private-key = "0xac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80"  # Use a test wallet (never use real funds!)
